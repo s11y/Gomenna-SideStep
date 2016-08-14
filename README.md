@@ -19,6 +19,9 @@ GIFとMovieというディレクトリに更に分かれ、GIFバージョンを
 ### sumima-senrigan
 「へむへむ」こと荒川陸氏により考案された「ごめんなサイドステップ」の兄弟ギャグ、「すみま千里眼」の未編集動画が収められている
 
+## komosama
+Life is Tech !代表みっちーからのこもさまへのごめんなサイドステップに応えるこもさまの「ごめんなサイドステップ」の未編集動画が収められている
+
 ## Contributer
 
 - [ShinokiRyosei](https://github.com/ShinokiRyosei)
