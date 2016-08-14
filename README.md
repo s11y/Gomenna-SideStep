@@ -22,9 +22,11 @@ GIFとMovieというディレクトリに更に分かれ、GIFバージョンを
 ## [komosama](./komosama/)
 Life is Tech !代表みっちーからのこもさまへのごめんなサイドステップに応えるこもさまの「ごめんなサイドステップ」の未編集動画が収められている
 
-## daifuku
+## [daifuku](./daifuku/)
+2016年Life is Tech !サマーキャンプ東大浅野キャンパスで行われたキャンパスで、サブディレクターだいふくによる「渾身の一発ギャグ『ごめんなサイホーン』でどスベリする」動画と「すみま千里眼でとってぃーさんにガチギレされる」動画が収められている。
 
-## gagyu_collection
+## [gagyu_collection](./gyagu_collection/)
+ごめんなサイドステップ本家、「へむへむ」こと荒川陸氏による「箱入り娘」の動画が収められている。
 
 ## Contributer
 
@@ -32,5 +34,6 @@ Life is Tech !代表みっちーからのこもさまへのごめんなサイド
 - [sasurai-usagi3](https://github.com/sasurai-usagi3)
 - [BigHappy](https://github.com/BigHappy)
 - [touyou](https://github.com/touyou)
+
 ## License
 MIT
