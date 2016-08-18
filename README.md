@@ -28,6 +28,9 @@ Life is Tech !代表みっちーからのこもさまへのごめんなサイド
 ## [gagyu_collection](./gyagu_collection/)
 ごめんなサイドステップ本家、「へむへむ」こと荒川陸氏による「箱入り娘」の動画が収められている。
 
+## [santentoritsu](./santentoritsu/)
+東大本郷C日程で行われた、「ごめんな三点倒立」の未編集動画が収められている。
+
 ## Contributer
 
 - [ShinokiRyosei](https://github.com/ShinokiRyosei)
